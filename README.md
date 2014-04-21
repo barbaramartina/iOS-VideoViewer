@@ -18,7 +18,7 @@ Here are some screenshots of the project:
 ![Video Selection](https://raw.githubusercontent.com/barbaramartina/iOS-VideoViewer/master/Resources/Screenshot%202014.04.21%2016.40.01.png)
 
     4. Scrubber
-![Scrubber](https://github.com/barbaramartina/iOS-VideoViewer/blob/master/Resources/Screenshot%202014.04.21%2016.40.34.png)
+![Scrubber](https://raw.githubusercontent.com/barbaramartina/iOS-VideoViewer/master/Resources/Screenshot%202014.04.21%2016.40.34.png)
 
 
 
