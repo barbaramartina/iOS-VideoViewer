@@ -1,8 +1,10 @@
 iOS-VideoViewer
 ===============
 
-A project to show how to use JSVideoScrubber from https://github.com/jaminschubert/JSVideoScrubber
---------------------------------------------------------------------------------------------------
+A project to show how to use JSVideoScrubber
+--------------------------------------------
+
+You can find this really useful and nicely designed scrubber implementation here:  https://github.com/jaminschubert/JSVideoScrubber
 
 Here are some screenshots of the project:
 
