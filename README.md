@@ -21,3 +21,4 @@ Here are some screenshots of the project:
 ![Scrubber](https://github.com/barbaramartina/iOS-VideoViewer/blob/master/Resources/Screenshot%202014.04.21%2016.40.34.png)
 
 
+
