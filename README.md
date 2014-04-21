@@ -8,4 +8,16 @@ You can find this really useful and nicely designed scrubber implementation here
 
 Here are some screenshots of the project:
 
-![Home Screen](https://github.com/barbaramartina/iOS-VideoViewer/blob/master/Resources/Screenshot%202014.04.21%2016.39.40.png)
+    1. Home Screen
+![Home Screen](https://raw.githubusercontent.com/barbaramartina/iOS-VideoViewer/master/Resources/Screenshot%202014.04.21%2016.39.40.png)
+
+    2. Permissions
+![Permissions](https://raw.githubusercontent.com/barbaramartina/iOS-VideoViewer/master/Resources/Screenshot%202014.04.21%2016.39.47.png)
+
+    3. Video selection
+![Video Selection](https://raw.githubusercontent.com/barbaramartina/iOS-VideoViewer/master/Resources/Screenshot%202014.04.21%2016.40.01.png)
+
+    4. Scrubber
+![Scrubber](https://github.com/barbaramartina/iOS-VideoViewer/blob/master/Resources/Screenshot%202014.04.21%2016.40.34.png)
+
+
